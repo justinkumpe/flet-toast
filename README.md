@@ -30,9 +30,9 @@ def main(page: ft.Page):
     control = ft.Row(
         controls=[
             ft.ElevatedButton(
-                text='Sucess',
+                text='Success',
                 color=ft.colors.BLUE,
-                on_click=lambda e: clicked_sucess(e)
+                on_click=lambda e: clicked_success(e)
             ),
             ft.ElevatedButton(
                 text='Warning',
@@ -47,8 +47,8 @@ def main(page: ft.Page):
         ]
     )
 
-    def clicked_sucess(e):
-        flet_toast.sucess(
+    def clicked_success(e):
+        flet_toast.success(
             page=page,
             message='Deu sucesso',
             position=flet_toast.Position.TOP_RIGHT,
