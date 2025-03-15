@@ -1,4 +1,4 @@
-[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/jonatasemidio/multilanguage-readme-pattern/blob/master/README.en.md)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](README.en.md)
 # Toastfy - Biblioteca de Notificações Toast para Flet
 
 `Toastfy` é uma biblioteca poderosa e flexível que permite a criação e exibição de notificações do tipo "toast" em aplicações Flet. Com `Toastfy`, você pode facilmente adicionar toasts de sucesso, erro e aviso às suas aplicações, personalizando a posição e o comportamento das notificações.

@@ -1,4 +1,4 @@
-[![es](https://img.shields.io/badge/lang-es-yellow.svg)](https://github.com/jonatasemidio/multilanguage-readme-pattern/blob/master/README.es.md)
+[![es](https://img.shields.io/badge/lang-es-yellow.svg)](README.es.md)
 
 # Toastfy - Toast Notification Library for Flet
 
